@@ -1,0 +1,112 @@
+Eboook radio king : ( je met l'Ebook avec comme ca si une partie en particulier vous interesse vous pourrez allez voir directement )
+
+définition webradio : "un flux audio que l’on peut écouter en continu sur Internet. On parle alors d’un
+stream, ou d’un flux radio ou d’un lien d’écoute, utilisable depuis un ordinateur, une tablette ou un smartphone"
+
+Comme une radio classique, elle peut être généraliste ou thématique
+
+première web radio créer en 1995, diffusait h24 et s'appellait Radio HK. Elle utilisait un logiciel d'audio-conférence
+pour diffuser la musique d'un CD qui tournait en boucle.
+
+Démocratisation de ce médias accélerer par les grandes radios FM qui y voient une opportunité pour toucher un 
+public plus large.
+
+Au fur et à mesure, d'autres acteurs se sont mit a utiliser ce médias.
+
+deux catégorie de web radio :  La première
+catégorie regroupe l’ensemble des radios traditionnelles qui diffusent
+aujourd’hui sur les ondes hertziennes (FM) ou numériques terrestres (RNT /
+DAB+) ==> diffuse la mm chose sur un canal radio et sur internet.
+
+La deuxième catégorie regroupe l’ensemble des radios indépendantes
+ou thématiques qui ne diffusent pas sur les ondes hertziennes ou numériques
+terrestres. Ces radios diffusent exclusivement via Internet.
+
+Parle des différences entre les radio FM et les wwebradio 
+
+Explique la différence entre l'automatique ( ne permet pas le direct ), le direct ( qui nécéssite d'avoir, sut toute la durée de la diffusion,
+un ordianteur allumé ) et un mélange des deux ( l'utilisateur fait de l'automatique, mais peut couper a tout moment
+pour passer sur du direct) pour la partie technique avec un schémas pour chaque partie.
+
+
+La partie suivante parle de pourquoi créer une webradio ( l'argument qui ressort le plus est le fait de jouer sur
+la variété, le changement et la différence par rapport aux radios FM ). Il aborde également les coût de la webradio,
+citant les 3 investissement principaux : le serveur radio, nécéssaire pour la diffusion ; les droit d'auteur pour pouvoir
+diffuser de la musique ; Un studio radio et de l'équipement pour pouvoir, comme les précédents je suppose car le but
+n'est pas indiqué, diffuser. Il faudra également un ordinateur, une connexion internet et un hébergeur radio pour pouvoir
+obtenir un lien d'écoute, un logiciel de diffusion et un système d'automation.
+
+Parle ensuite de trouver un concept pour se différencier des autres : ciblez une communauté niche ( être précis ),
+le faire sur un sujet que l'on aime, utilisez internet pour s'inspirer mais également d'autre webradio avec un thème proche,
+
+
+Il parte ensuite sur une étude de marché, explicant qu'il faut analyser la concurrence, trouver leur points faibles et les exploité.
+
+Il parle également de l'îcone, de la chartre graphique et du nom, qui doivent marquer la différence avec les autres webradios .
+Il précise aussi qu'il faut protéger ces concepts, sous réserve qu'ils soient originaux, a l'aide des droits d'auteurs par exemple.
+
+
+Il s'attaquent ensuite à la définition du format et du contenu de la webradio, parlant de la programmation ( horaire ),
+différenciant les différents formats cité au début ( généraliste, thématique, musicale, communautaire, information, local).
+Il parle également de comment se procurer des musiques, dépendament du budget, libres de droits ou non.
+Il parle ensuite de l'habillage, qui "retranscrit l'identité de la webradio". Il existes plusieurs manières de faire : 
+- le faire faire par un professionnel;
+- en chercher un libre de droit;
+- le réaliser soit-même;
+Il explique ensuite ce qu'est une bonne programmation, bien classé les titres diffusé, définir une rotation et ses règles pour éviter une baisse d'auditeurs.
+
+
+Un thème très important est ensuite abordé, et c'est celui de la gestion des droits d'auteurs, avec la SACEM ( pour plus d'info sur la SACEM, voir les autres docs ).
+
+
+Il explique ensuite le fonctionnement de la diffusion en direct, comment bien choisir son matériel et monter son propre studio.
+
+Vient ensuite le thème du premier direct, section dans laquelle des conseil sur quand réaliser un direct, comment se préparer,
+comment préparer le direct, comment le rendre dynamique, conserver l'attention des auditeurs et quelques autres conseils.
+
+
+L'auteur parle ensuite de comment faire connaître sa webradio et d'améliorer sa visibilité sur internet, parlant du référencement et des annuaires radio, 
+ou encore de comment daire la promotion de sa web radio sur plusieurs supports tel que la presse, des forums, des mails et les reseaux sociaux.
+L'auteur parle également de comment conserver et augmenter son audience ( renouveller la programmation et le contenu régulierement, faire participer les auditeurs,
+publié des articles si un site internet est possédé ( on pourrait voir pour faire ca ) et globalement, régulierement proposé de la nouveauté. Il y a également la possibilité de créer des goodies,
+d'organiser des rencontres avec les auditeurs et/ou de créer un événement sur les réseaux sociaux ).
+
+
+L'avant dernier thème aborder est celui de la monétisation, partie dans laquelle l'auteur explique d'abord ce qu'est la monétisation ( faire participer monétairement son audience via differents moyens tel que 
+les goodies, la pub, les partenariats, le crowfunding ou s'integrer a une entreprise), avnt d'expliquer les différentes conditions à réunir pour obtenir celle-ci ( un concept pertinent, une audience niche, une relation editeur-auditeur, une marque et une commercialisation suffisante ).
+Il est cependant préconiser de mettre en place une organisation rigoureuse ainsi que des moyens humains suffisant pour pouvoir obtenir une monétisation viable.
+
+Enfin, le dernier sujet aborder est celui de la différence entre radio FM et radio DAB+ ( RNT ), sujet qui avait été vaguement cité au début du document et qui est développé ici.
+L'auteur définit tout d'abord ce qu'est la FM ( diffusion sur les ondes ) et ce qu'est le DAB+ ( version numérique de la FM ).
+Vient ensuite la question de "que faut-il choisir ?", que l'auteur décrit comme de moins en moins posé car la tendance tend de plus en plus vers le DAB+, car celui-ci propose une meilleur qualité, que ce soit sur la qualité du son,
+la simplicté d'utilisation, un panel d'option complémentaire, une offre plus vaste de fréquence et une couverture plus étendue ( zone que la fréquence peut atteindre ).
+Après avoir comparer les deux options, l'auteur explique comment obtenir une autorisation pour diffuser ( CSA ), comment diffuser son programme en DAB+ une fois l'autorisation reçu,
+
+
+Mes recherches pour le projets : 
+
+https://www.lawebradio.com/news/sacem-nouveaux-tarifs-de-redevance-pour-la-diffusion-dune-webradio-francaise/#:~:text=R%C3%A9mun%C3%A9ration%20de%2012%20%25%20des%20recettes,la%20S%C3%A9curit%C3%A9%20Sociale%20des%20Auteurs).
+|
+|___/-> explique comment faire pour légalement diffuser des audios sur sa webradios, les tarifs, les documents nécéssaires
+
+
+
+https://www.lagbd.org/index.php/R%C3%A9glementation_des_webradios_(fr)  ==>  Wikipedia sur la webradio ( historique, definition, differentiation des types, les droits, les contrats, 
+
+https://fr.radioking.com/p/choisir-contenu-webradio-reussir-programmation/ ==> site proposant des conseils sur la gestion de sa webradio, la programmation de ce qui vas y passer et comment rester dans le cadre legal
+vis a vis des droits d'auteur
+
+https://webradio-solutions.com/conditions-de-services  ==>  exemple de termes de confidentialités avec definitions et presentations des termes d'utilisations
+
+
+https://clients.sacem.fr/actuimg/fr/live/v4/Clients-Utilisateurs/Actualites/2020/SACEM_Flyer_WEBRADIO_2020.pdf ==> grille tarifaire ultra complete, conseil pour la creation d'une webradio avec un cas par cas ( webradio privée,
+associative, commerciale, ... )
+
+
+
+SACEM : organisme qui s'occupe des droits d'auteurs ( son autorisation est nécéssaire pour la diffusion de contenu a cause des droits d'auteur justement )
+
+
+
+
+https://fr.radioking.com/p/livre-blanc-creer-webradio/ =====> Le site ou il y as le livre que je lis et possiblement d'autres
