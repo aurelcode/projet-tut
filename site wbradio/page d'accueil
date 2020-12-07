@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Webradio IUT Belfort-Montbeliard</title>
+    </head>
+    <body>
+        <h1>Page d'accueil</h1>
+        <header>
+            <div class="logo">
+                <img src="OneDrive/Images/SavedPictures/AO_SHIN">logotempo</a>
+            </div>
+            <div class="live_audio">
+                <a href="">Live en cour</a>
+            </div>
+            <div class="verif">
+                <a href="">authentification/création de compte</a>
+            </div>
+            <div class="reddif">
+                <a href="">rediffusion de Live</a>
+            </div>
+            <div class="audio">
+                <a href="">Live audio</a>
+            </div>
+            <div class="boutique">
+                <a href="">Boutique</a>
+            </div>
+            <div class="staff">
+                <a href="">Contacter le staff</a>
+            </div>
+            <div class="biblio">
+                <a href="">Bibliothèque</a>
+            </div>
+        </header>
+        <div class="contenu">
+            <div class="MEA1">
+                <a href="">Live audio N°=1</a>
+            </div>
+            <div class="MEA2">
+                <a href="">Live audio N°=2</a>
+            </div>
+            <div class="MEA3">
+                <a href="">Live audio N°=3</a>
+            </div>
+        </div>
+        <footer>
+            <a href="terme de confidentialité">terme de confidentialité</a>
+            <p>adresse mail de contact, numéro de tel de contact, CGU, lien vers le support</p>
+        </footer>
+    </body>
+</html>
