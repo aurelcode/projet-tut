@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Connexion Webradio IUT Belfort-Montbeliard</title>
+    </head>
+    <body>
+
+    <?php
+        $logins = array(
+            array(
+                "identifiant" => "pseudo",
+                "mot_passe" => "password"
+            ),
+            array(
+                "identifiant" => "admin",
+                "mot_passe" => "admin"
+            )
+        );
+        if (!empty($_POST)) {
+            foreach ($logins as $login) {
+                if ($_POST['login'] == $login['identifiant'] &&
+                $_POST['mot_passe'] == $login['mot_passe'])
+                {
+                    $auth=1
+                }
+            }
+        }
+    ?>
+    <?php if (!isset($auth)) { ?>
+        <?php if (!empty($_POST)) { ?>
+            <div>
+                Identifiant non reconnu
+            </div>
+        <?php }?>
+        <form action="authentification.html" method="post">
+            <fieldset>
+                <label for="login" value="<?php if (isset($_POST['login'])) { echo $_POST['login'];}?>">Identifiant</label>
+                <input type="text" id="id" name="login">
+                <label for="mot_de_passe">Mot de passe</label>
+                <input type="text" id="mot_de_passe" name="mot_de_passe" value="<?php if (isset($_POST['mot_de_passe'])) { echo $_POST['mot_de_passe'];}?>">
+            </fieldset>
+            <input type="submit">
+        </form>
+    <?php } else {?>
+        <div>
+            Identifiant reconnu
+        </div>
+    <?php }?>
+    <form action="verification.html">
+        <button type="submit">Création de compte</button>
+    </form>
+    </body>
+</html>
