@@ -1,3 +1,4 @@
+  
 <!DOCTYPE html>
 <html>
     <head>
@@ -6,39 +7,44 @@
         <link href="accueil.css" rel="stylesheet">
     </head>
     <body>
+    <div class="haut">
         <h3 class="titre">Webradio de l'IUT belfort-Montbéliard</h3>
         <div class="logo">
-            <img src="AO_SHIN.jpg" width="160" height="80">
+            <img src="iutlogo.png" width="160" height="80">
         </div>
         <nav>
-            <form action="biblio.html" method="get" class="recherche">
+            <form action="biblio.php" method="get" class="recherche">
                 <input type="text" id="recherche" name="recherche" size="80">
                 <input type="submit" size="30" class="confirmer">
             </form>
         </nav>
         <header>
             <div class="live_audio">
-                <a href="liveactu.html">Live en cour</a>
+                <a href="liveactu.php">Live en cour</a>
             </div>
             <div class="verif">
-                <a href="authentification.html">authentification/création de compte</a>
+                <a href="authentification.php">authentification/création de compte</a>
             </div>
             <div class="audio">
-                <a href="live.html">Live audio</a>
+                <a href="live.php">Live audio</a>
             </div>
             <div class="biblio">
-                <a href="biblio.html">Bibliothèque</a>
+                <a href="biblio.php">Bibliothèque</a>
             </div>
         </header>
+    </div>
         <div class="contenu">
             <div class="MEA1">
-                <a href="live.html">rediffusion de pop</a>
+                <h2>rediffusion de pop</h2>
+                <a href="live.php"><img src="logopop.png" width="300" height="300"></a>
             </div>
             <div class="MEA2">
-                <a href="live.html">rediffusion de rock</a>
+                <h2>rediffusion de rock</h2>
+                <a href="live.php"><img src="logorock.jpeg" width="300" height="300"></a>
             </div>
             <div class="MEA3">
-                <a href="live.html">rediffusion de metal</a>
+                <h2>rediffusion de metal</h2>
+                <a href="live.php"><img src="logometal.jpeg" width="300" height="300"></a>
             </div>
         </div>
     </body>
